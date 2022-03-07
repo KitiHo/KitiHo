@@ -27,7 +27,7 @@
   
 <h3> GitHub Stats </h3>
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshima7&layout=compact&hide=html,css,java />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshima7&layout=compact&hide=html,css,java" />
 </a>
 
 <h3>Where to find me</h3>
