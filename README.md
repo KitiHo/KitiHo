@@ -17,19 +17,19 @@
 <h3> Pinned Repositories</h3>
 <div style="margin-bottom:1rem">
 <a style="display:block;" href="https://github.com/enoshima7/my-cv">
-   <img align="center" style="width:320px;padding:16px;margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv" />
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv&theme=radical" />
 </a>
   </div>
   <br/>
   <div style="margin-bottom:1rem">
 <a style="display:block" href="https://github.com/enoshima7/sep-web-imitatation">
-   <img align="center" style="width:320px;padding:16px;margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=sep-web-imitatation" />
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=sep-web-imitatation&theme=radical" />
 </a>
   </div>
   <br/>
   <div style="margin-bottom:1rem">
 <a style="display:block" href="https://github.com/enoshima7/pokemon-app">
-   <img align="center" style="width:320px;padding:16px;margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app" />
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app&theme=radical" />
 </a>
   </div>
   
