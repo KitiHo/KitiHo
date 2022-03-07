@@ -16,18 +16,18 @@
 
 <h3> 📌 Pinned Repositories</h3>
 <a href="https://github.com/enoshima7/my-cv">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv&theme=dark" />
 </a>
 <a href="https://github.com/enoshima7/sep-web-imitatation">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=sep-web-imitatation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=sep-web-imitatation&theme=dark" />
 </a>
 <a href="https://github.com/enoshima7/pokemon-app">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app&theme=dark" />
 </a>
   
 <h3> GitHub Stats </h3>
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshima7&layout=compact&hide=html,css,java,C#" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=enoshima7&theme=dark" />
 </a>
 
 <h3>Where to find me</h3>
