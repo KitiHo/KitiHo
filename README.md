@@ -15,15 +15,21 @@
 </p>
 
 <h3> Pinned Repositories</h3>
-<a style="display:block" href="https://github.com/enoshima7/my-cv">
+<div>
+<a style="display:block;" href="https://github.com/enoshima7/my-cv">
    <img align="center" style="width:320px;padding:16px;margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv" />
 </a>
+  </div>
+  <div>
 <a style="display:block" href="https://github.com/enoshima7/sep-web-imitatation">
    <img align="center" style="width:320px;padding:16px;margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=sep-web-imitatation" />
 </a>
+  </div>
+  <div>
 <a style="display:block" href="https://github.com/enoshima7/pokemon-app">
    <img align="center" style="width:320px;padding:16px;margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app" />
 </a>
+  </div>
   
 <h3> GitHub Stats </h3>
 <a href="https://github.com/braydoncoyer">
