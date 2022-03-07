@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm JiPeng Duan，my English name is Will, a Frontend developer from <img src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/cn.png" width="13"/> <b>ChongQing, China</b>.
 <h3>Things I code with</h3>
 <p>
@@ -14,7 +13,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3> Pinned Repositories</h3>
+<!-- <h3>Pinned Repositories</h3>
 <div style="margin-bottom:1rem">
 <a style="display:block;" href="https://github.com/enoshima7/my-cv">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv" />
@@ -31,8 +30,8 @@
 <a style="display:block" href="https://github.com/enoshima7/pokemon-app">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app" />
 </a>
-  </div>
-  
+  </div> -->
+
 <h3> GitHub Stats </h3>
 <a href="https://github.com/enoshima7">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=enoshima7&show_icons=true" />
