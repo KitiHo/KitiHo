@@ -15,28 +15,28 @@
 
 <!-- <h3>Pinned Repositories</h3>
 <div style="margin-bottom:1rem">
-<a style="display:block;" href="https://github.com/enoshima7/my-cv">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=my-cv" />
+<a style="display:block;" href="https://github.com/KitiHo/my-cv">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=KitiHo&repo=my-cv" />
 </a>
   </div>
   <br/>
   <div style="margin-bottom:1rem">
-<a style="display:block" href="https://github.com/enoshima7/sep-web-imitatation">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=sep-web-imitatation" />
+<a style="display:block" href="https://github.com/KitiHo/sep-web-imitatation">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=KitiHo&repo=sep-web-imitatation" />
 </a>
   </div>
   <br/>
   <div style="margin-bottom:1rem">
-<a style="display:block" href="https://github.com/enoshima7/pokemon-app">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=enoshima7&repo=pokemon-app" />
+<a style="display:block" href="https://github.com/KitiHo/pokemon-app">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=KitiHo&repo=pokemon-app" />
 </a>
   </div> -->
 
 <h3> GitHub Stats </h3>
-<a href="https://github.com/enoshima7">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=enoshima7&show_icons=true" />
+<a href="https://github.com/KitiHo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=KitiHo&show_icons=true" />
 </a>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/enoshima7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/enoshima73" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://github.com/KitiHo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/KitiHo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
