@@ -13,24 +13,22 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<!-- <h3>Pinned Repositories</h3>
-<div style="margin-bottom:1rem">
-<a style="display:block;" href="https://github.com/KitiHo/my-cv">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=KitiHo&repo=my-cv" />
-</a>
-  </div>
-  <br/>
-  <div style="margin-bottom:1rem">
-<a style="display:block" href="https://github.com/KitiHo/sep-web-imitatation">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=KitiHo&repo=sep-web-imitatation" />
-</a>
-  </div>
-  <br/>
-  <div style="margin-bottom:1rem">
-<a style="display:block" href="https://github.com/KitiHo/pokemon-app">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=KitiHo&repo=pokemon-app" />
-</a>
-  </div> -->
+<h3>Check out my Works</h3>
+
+  <ul>
+    <li>
+      <h4>Ki-Algorithum(https://algorithum-kitiho.netlify.app/)</h4>      
+      <div>Algorithm questions ollections for learning. Includes resolutions and code written in Typescript.</div>        
+    </li>
+  <li>
+      <h4>Sekkei(https://sekkei-kitiho.netlify.app/)</h4>      
+      <div>Try to make 100 design projects on this website</div>        
+    </li>
+  <li>
+      <h4>My Minesweeper(https://enoshima7-minesweeper.netlify.app/)</h4>      
+      <div>Minesweeper game displayed on website. Written by Vue3.</div>        
+    </li>
+  </ul>
 
 <h3> GitHub Stats </h3>
 <a href="https://github.com/KitiHo">
