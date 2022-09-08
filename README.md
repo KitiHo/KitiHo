@@ -20,15 +20,15 @@
 
   <ul>
     <li>
-      <h4>Ki-Algorithum(http://algo.kitiho.com/)</h4>      
+      <h4>Ki-Algorithum(https://algo.kitiho.com/)</h4>      
       <div>Algorithm questions ollections for learning. Includes resolutions and code written in Typescript.</div>        
     </li>
   <li>
-      <h4>Sekkei(http://sekkei.kitiho.com/)</h4>      
+      <h4>Sekkei(https://sekkei.kitiho.com/)</h4>      
       <div>Try to make 100 design projects on this website</div>        
     </li>
   <li>
-      <h4>My Minesweeper(http://minesweeper.kitiho.com/)</h4>      
+      <h4>My Minesweeper(https://minesweeper.kitiho.com/)</h4>      
       <div>Minesweeper game displayed on website. Written by Vue3.</div>        
     </li>
   </ul>
