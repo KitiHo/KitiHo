@@ -16,23 +16,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Check out my Works</h3>
-
-  <ul>
-    <li>
-      <h4>Ki-Algorithum(https://algo.kitiho.com/)</h4>      
-      <div>Algorithm questions ollections for learning. Includes resolutions and code written in Typescript.</div>        
-    </li>
-  <li>
-      <h4>Sekkei(https://sekkei.kitiho.com/)</h4>      
-      <div>Try to make 100 design projects on this website</div>        
-    </li>
-  <li>
-      <h4>My Minesweeper(https://minesweeper.kitiho.com/)</h4>      
-      <div>Minesweeper game displayed on website. Written by Vue3.</div>        
-    </li>
-  </ul>
-
+<h3>Check out my Blog</h3>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/51785099/210053691-72e7901b-072f-425a-925f-de366e17a173.png">
+<h4>Kitiho(https://kitiho.com/)</h4>      
 <h3> GitHub Stats </h3>
 <a href="https://github.com/KitiHo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=KitiHo&show_icons=true" />
