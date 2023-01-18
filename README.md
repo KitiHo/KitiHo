@@ -1,8 +1,5 @@
-<h1>Hello/你好/こんにちは</h1>
+<h4>Hello/你好/こんにちは</h4>
 
-<h3>Language</h3>
-<code>English ｜ 中文 ｜ English</code>
-<h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
@@ -15,14 +12,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Check out my Blog</h3>
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/51785099/210053691-72e7901b-072f-425a-925f-de366e17a173.png">
 <h4>Kitiho(https://kitiho.com/)</h4>      
-<h3> GitHub Stats </h3>
-<a href="https://github.com/KitiHo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=KitiHo&show_icons=true" />
-</a>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/KitiHo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/KitiHo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/KitiHo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/KitiHo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
